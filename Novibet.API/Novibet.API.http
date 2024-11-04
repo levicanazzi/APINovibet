@@ -1,0 +1,6 @@
+@Novibet.API_HostAddress = http://localhost:5199
+
+GET {{Novibet.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
